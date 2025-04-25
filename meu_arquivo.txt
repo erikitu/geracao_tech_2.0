@@ -1,0 +1,1 @@
+Este é um arquivo de exemplo para demonstrar a movimentação de arquivos e manipulação da linha de tempo no github.
